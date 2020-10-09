@@ -1,0 +1,11 @@
+/.vscode
+/build
+/dist
+/LGC_tilt_6-16-2019.py
+/lgc_tilt_gui.exe
+/scatterplot.py
+/serial_sim.py
+/serial_sim.spec
+/tests.py
+/vscode.bat
+/__pycache__
